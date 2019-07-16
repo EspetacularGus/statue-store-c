@@ -1,0 +1,350 @@
+c:\users\gusta\source\repos\StatueStore\StatueStore\bin\Debug\StatueStore.exe.config
+c:\users\gusta\source\repos\StatueStore\StatueStore\bin\Debug\StatueStore.exe
+c:\users\gusta\source\repos\StatueStore\StatueStore\bin\Debug\StatueStore.pdb
+c:\users\gusta\source\repos\StatueStore\StatueStore\obj\Debug\StatueStore.csprojResolveAssemblyReference.cache
+c:\users\gusta\source\repos\StatueStore\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+c:\users\gusta\source\repos\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.cache
+c:\users\gusta\source\repos\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.CoreCompileInputs.cache
+c:\users\gusta\source\repos\StatueStore\StatueStore\obj\Debug\StatueStore.exe
+c:\users\gusta\source\repos\StatueStore\StatueStore\obj\Debug\StatueStore.pdb
+c:\users\gusta\source\repos\StatueStore\StatueStore\obj\Debug\StatueStore.formLogin.resources
+c:\users\gusta\source\repos\StatueStore\StatueStore\obj\Debug\StatueStore.formMenu.resources
+F:\Programação\TCC\StatueStore\StatueStore\bin\Debug\StatueStore.exe.config
+F:\Programação\TCC\StatueStore\StatueStore\obj\Debug\StatueStore.exe
+F:\Programação\TCC\StatueStore\StatueStore\obj\Debug\StatueStore.pdb
+F:\Programação\TCC\StatueStore\StatueStore\bin\Debug\StatueStore.exe
+F:\Programação\TCC\StatueStore\StatueStore\bin\Debug\StatueStore.pdb
+F:\Programação\TCC\StatueStore\StatueStore\obj\Debug\StatueStore.csprojResolveAssemblyReference.cache
+F:\Programação\TCC\StatueStore\StatueStore\obj\Debug\StatueStore.formLogin.resources
+F:\Programação\TCC\StatueStore\StatueStore\obj\Debug\StatueStore.formMenu.resources
+F:\Programação\TCC\StatueStore\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+F:\Programação\TCC\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.Cache
+D:\Programação\TCC\StatueStore\StatueStore\bin\Debug\StatueStore.exe.config
+D:\Programação\TCC\StatueStore\StatueStore\bin\Debug\StatueStore.exe
+D:\Programação\TCC\StatueStore\StatueStore\bin\Debug\StatueStore.pdb
+D:\Programação\TCC\StatueStore\StatueStore\obj\Debug\StatueStore.csprojResolveAssemblyReference.cache
+D:\Programação\TCC\StatueStore\StatueStore\obj\Debug\StatueStore.formLogin.resources
+D:\Programação\TCC\StatueStore\StatueStore\obj\Debug\StatueStore.formMenu.resources
+D:\Programação\TCC\StatueStore\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+D:\Programação\TCC\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.cache
+D:\Programação\TCC\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.CoreCompileInputs.cache
+D:\Programação\TCC\StatueStore\StatueStore\obj\Debug\StatueStore.exe
+D:\Programação\TCC\StatueStore\StatueStore\obj\Debug\StatueStore.pdb
+C:\Users\gusta\Desktop\StatueStore\StatueStore\bin\Debug\StatueStore.exe.config
+C:\Users\gusta\Desktop\StatueStore\StatueStore\bin\Debug\StatueStore.exe
+C:\Users\gusta\Desktop\StatueStore\StatueStore\bin\Debug\StatueStore.pdb
+C:\Users\gusta\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.csprojResolveAssemblyReference.cache
+C:\Users\gusta\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.formLogin.resources
+C:\Users\gusta\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.formMenu.resources
+C:\Users\gusta\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+C:\Users\gusta\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.cache
+C:\Users\gusta\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.exe
+C:\Users\gusta\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.pdb
+C:\Users\gusta\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+C:\Users\admin\Desktop\StatueStore\StatueStore\bin\Debug\StatueStore.exe.config
+C:\Users\admin\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.exe
+C:\Users\admin\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.pdb
+C:\Users\admin\Desktop\StatueStore\StatueStore\bin\Debug\StatueStore.exe
+C:\Users\admin\Desktop\StatueStore\StatueStore\bin\Debug\StatueStore.pdb
+C:\Users\admin\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+C:\Users\admin\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.formLogin.resources
+C:\Users\admin\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.formMenu.resources
+C:\Users\admin\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+C:\Users\admin\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+C:\Users\gusta\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+C:\Users\gusta\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+C:\Users\admin\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+C:\Users\admin\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FrmCadGrupo.resources
+C:\Users\admin\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+C:\Users\gusta\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+C:\Users\gusta\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FrmCadGrupo.resources
+C:\Users\User\Desktop\StatueStore\StatueStore\bin\Debug\StatueStore.exe.config
+C:\Users\User\Desktop\StatueStore\StatueStore\bin\Debug\StatueStore.exe
+C:\Users\User\Desktop\StatueStore\StatueStore\bin\Debug\StatueStore.pdb
+C:\Users\User\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.csprojAssemblyReference.cache
+C:\Users\User\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+C:\Users\User\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+C:\Users\User\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+C:\Users\User\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+C:\Users\User\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.formLogin.resources
+C:\Users\User\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.formMenu.resources
+C:\Users\User\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FrmCadGrupo.resources
+C:\Users\User\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FormVisuEstoque.resources
+C:\Users\User\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+C:\Users\User\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.cache
+C:\Users\User\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.exe
+C:\Users\User\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.pdb
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.csprojResolveAssemblyReference.cache
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.formLogin.resources
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.formMenu.resources
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FrmCadGrupo.resources
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FormVisuEstoque.resources
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.cache
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.exe
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.pdb
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\bin\Debug\StatueStore.exe.config
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\bin\Debug\StatueStore.exe
+C:\Users\gusta\Desktop\TESTE PARA MOVIMENTAÇÃO DE  CÓDIGO\Novo Design-20181029T152429Z-001\Novo Design\StatueStore\StatueStore\bin\Debug\StatueStore.pdb
+C:\Users\admin\Desktop\Novo Design\StatueStore\StatueStore\bin\Debug\StatueStore.exe.config
+C:\Users\admin\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.exe
+C:\Users\admin\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.pdb
+C:\Users\admin\Desktop\Novo Design\StatueStore\StatueStore\bin\Debug\StatueStore.exe
+C:\Users\admin\Desktop\Novo Design\StatueStore\StatueStore\bin\Debug\StatueStore.pdb
+C:\Users\admin\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+C:\Users\admin\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+C:\Users\admin\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+C:\Users\admin\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+C:\Users\admin\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.formLogin.resources
+C:\Users\admin\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.formMenu.resources
+C:\Users\admin\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FrmCadGrupo.resources
+C:\Users\admin\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FormVisuEstoque.resources
+C:\Users\admin\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+C:\Users\admin\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.Cache
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\bin\Debug\StatueStore.exe.config
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\bin\Debug\StatueStore.exe
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\bin\Debug\StatueStore.pdb
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.csprojResolveAssemblyReference.cache
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.formLogin.resources
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.formMenu.resources
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FrmCadGrupo.resources
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.FormVisuEstoque.resources
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.cache
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.exe
+C:\Users\gusta\Desktop\Novo Design\StatueStore\StatueStore\obj\Debug\StatueStore.pdb
+C:\Users\User\Desktop\StatueStore\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormVisualizar.resources
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.csprojResolveAssemblyReference.cache
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.formLogin.resources
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.formMenu.resources
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadGrupo.resources
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormVisualizar.resources
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormVisuEstoque.resources
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.cache
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.exe
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.pdb
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\bin\Debug\StatueStore.exe.config
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\bin\Debug\StatueStore.exe
+C:\Users\gusta\Desktop\LAB DE MUDANÇA DE DESIGN\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\bin\Debug\StatueStore.pdb
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\bin\Debug\StatueStore.exe.config
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.exe
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.pdb
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\bin\Debug\StatueStore.exe
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\bin\Debug\StatueStore.pdb
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.formLogin.resources
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.formMenu.resources
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadGrupo.resources
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormVisualizar.resources
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormVisuEstoque.resources
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+C:\Users\admin\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.Cache
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\bin\Debug\StatueStore.exe.config
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\bin\Debug\StatueStore.exe
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\bin\Debug\StatueStore.pdb
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.csprojResolveAssemblyReference.cache
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.formLogin.resources
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.formMenu.resources
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadGrupo.resources
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormsSistema.frmFirstTimeLogin.resources
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormVisualizar.resources
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormVisuEstoque.resources
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.cache
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.exe
+C:\Users\gusta\Desktop\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.pdb
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\bin\Debug\StatueStore.exe.config
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.exe
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.pdb
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\bin\Debug\StatueStore.exe
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\bin\Debug\StatueStore.pdb
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.formLogin.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.formMenu.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadGrupo.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormsSistema.frmFirstTimeLogin.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormVisualizar.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormVisuEstoque.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\bin\Debug\StatueStore.exe.config
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.exe
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.pdb
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\bin\Debug\StatueStore.exe
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\bin\Debug\StatueStore.pdb
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.formLogin.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.formMenu.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormCadGrupo.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormsSistema.frmFirstTimeLogin.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormVisualizar.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.FormVisuEstoque.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+C:\Users\admin\Desktop\PACK DE ENTREGA C# STATUE STORE GGGGGGGGGGGGGGGGGGGGG\PACK DE ENTREGA C# STATUE STORE\StatueStore-20181112T141116Z-001\StatueStore\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\bin\Debug\StatueStore.exe.config
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.exe
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.pdb
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\bin\Debug\StatueStore.exe
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\bin\Debug\StatueStore.pdb
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.formLogin.resources
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.formMenu.resources
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormCadGrupo.resources
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormsSistema.frmFirstTimeLogin.resources
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormVisualizar.resources
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormVisuEstoque.resources
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormsSistema.formUserInfo.resources
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\bin\Debug\StatueStore.exe.config
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\bin\Debug\StatueStore.exe
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\bin\Debug\StatueStore.pdb
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.csprojResolveAssemblyReference.cache
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormsSistema.formUserInfo.resources
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.formLogin.resources
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.formMenu.resources
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormCadGrupo.resources
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormsSistema.frmFirstTimeLogin.resources
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormVisualizar.resources
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormVisuEstoque.resources
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.cache
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.exe
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.pdb
+C:\Users\gusta\Desktop\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormsVisualizar.formReporEstoque.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\bin\Debug\StatueStore.exe.config
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\bin\Debug\StatueStore.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\bin\Debug\StatueStore.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.csprojAssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormsSistema.formUserInfo.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.formLogin.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.formMenu.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormCadGrupo.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormsSistema.frmFirstTimeLogin.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormsVisualizar.formReporEstoque.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormVisualizar.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.FormVisuEstoque.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\StatueStore - C# Desktop\StatueStore\obj\Debug\StatueStore.pdb
+F:\StatueStore - C# Desktop - Copia\StatueStore\bin\Debug\StatueStore.exe.config
+F:\StatueStore - C# Desktop - Copia\StatueStore\bin\Debug\StatueStore.exe
+F:\StatueStore - C# Desktop - Copia\StatueStore\bin\Debug\StatueStore.pdb
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.csprojResolveAssemblyReference.cache
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsSistema.formUserInfo.resources
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.formLogin.resources
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.formMenu.resources
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormCadGrupo.resources
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsSistema.frmFirstTimeLogin.resources
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsVisualizar.formReporEstoque.resources
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormVisualizar.resources
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormVisuEstoque.resources
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.Cache
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.exe
+F:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.pdb
+D:\StatueStore - C# Desktop - Copia\StatueStore\bin\Debug\StatueStore.exe.config
+D:\StatueStore - C# Desktop - Copia\StatueStore\bin\Debug\StatueStore.exe
+D:\StatueStore - C# Desktop - Copia\StatueStore\bin\Debug\StatueStore.pdb
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.csprojAssemblyReference.cache
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsSistema.formUserInfo.resources
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.formLogin.resources
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.formMenu.resources
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormCadGrupo.resources
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsSistema.frmFirstTimeLogin.resources
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormVisualizar.resources
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.cache
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.csproj.CoreCompileInputs.cache
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.exe
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.pdb
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormAddTamanho.resources
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormEstoque.resources
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormAtualizaProduto.resources
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormVisualizarPedidos.resources
+D:\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormDetalhePedido.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\bin\Debug\StatueStore.exe.config
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\bin\Debug\StatueStore.exe
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\bin\Debug\StatueStore.pdb
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.csprojAssemblyReference.cache
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormAddTamanho.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormCadFornecedor.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormCadFunc.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormCadProduto.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsCadastro.FormCadSubGrupo.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsSistema.formUserInfo.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.formLogin.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.formMenu.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormCadGrupo.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsSistema.frmFirstTimeLogin.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormAtualizaProduto.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormDetalhePedido.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormEstoque.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormVisualizar.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.FormsVisualizar.FormVisualizarPedidos.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.Properties.Resources.resources
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.csproj.GenerateResource.cache
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.csproj.CoreCompileInputs.cache
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.exe
+C:\Users\ninja\Desktop\Entrega 2019 (Statue Store)\DESKTOP_C -\StatueStore - C# Desktop - Copia\StatueStore\obj\Debug\StatueStore.pdb
